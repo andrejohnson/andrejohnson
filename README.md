@@ -1,37 +1,17 @@
 # Hi there, I'm Andre - aka [andrejohnson][youtube] 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=andrejohnson.com&style=for-the-badge&url=https%3A%2F%2Fandrejohnson.com)](https://andrejohnson.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/andrejohnson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fandrejohnson&screen_name=andrejohnson)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/andrejohnson.andrejohnson-theme?label=andrejohnson%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=andrejohnson.andrejohnson-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Developer!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- ⚡ Fun fact: I love to draw and see new places
 
-### Connect with me:
 
-[![website](./img/globe-light.svg)](https://andrejohnson.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://andrejohnson.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/andrejohnson#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/andrejohnson#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/andrejohnson#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/andrejohnson#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/andrejohnson#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/andrejohnson#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/andrejohnson#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/andrejohnson#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -58,35 +38,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-- [🔴 JS GameDev Summit 2022 LIVE | JavaScript + Game Development = 😍](https://www.youtube.com/watch?v=bG5Lk1MLbDk)
-- [Do You Need To Know Web Dev To Become A Web3 Developer? With Hashlips](https://www.youtube.com/watch?v=oQBRZMo0e34)
-- [BEST Minting Site w/ Waitlist/Whitelist - Entire Process! Launch an Entire NFT Collection &lpar;10,000+&rpar;](https://www.youtube.com/watch?v=cLB7u0KQFIs)
-- [UPDATED: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge - PFP Generator](https://www.youtube.com/watch?v=quGdJweadFM)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/andrejohnson)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/andrejohnson/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/andrejohnson/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/andrejohnson/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/andrejohnson/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/andrejohnson/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://andrejohnson.com)
-
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
