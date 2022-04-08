@@ -1,15 +1,15 @@
-# Hi there, I'm Andre - aka [andrejohnson][youtube] 👋
+# Hi there, I'm Andre - aka [andrejohnson] 👋
 
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/andrejohnson.andrejohnson-theme?label=andrejohnson%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=andrejohnson.andrejohnson-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
-## I'm a Husband, Father, Developer!
+## I'm a Husband, Gamer, Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and see new places
+- ⚡ Fun fact: I love to sing and see new places
 
 
 
@@ -60,12 +60,6 @@
 </details>
 
 [website]: https://andrejohnson.com
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/andrejohnson
-[youtube]: https://youtube.com/andrejohnson
 [instagram]: https://instagram.com/andrejohnson
 [linkedin]: https://linkedin.com/in/andrejohnson
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
