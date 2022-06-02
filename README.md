@@ -1,6 +1,6 @@
 # Hi there, I'm Andre 👋
 
-## I'm a Husband, Gamer, Developer!
+## I'm a Husband, Gamer, Full Stack Web Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others
